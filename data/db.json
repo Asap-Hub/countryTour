@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Kumasi Zoo",
+      "loc": "Kumasi",
+      "active": true
+  },
+ {
+      "id": 2,
+      "name": "Prempeh II Jubilee Museum",
+      "loc": "Kumasi",
+      "active": false
+  },
+ {
+      "id": 3,
+      "name": "The Kwame Nkrumah Memorial Park",
+      "loc": "Accra",
+      "active": true
+  },
+ {
+      "id": 4,
+      "name": "Crystal Park",
+      "loc": "Accra",
+      "active": true
+  },
+ {
+      "id": 5,
+      "name": "Kejetia Market",
+      "loc": "Kumasi",
+      "active": true
+  },
+  {
+      "id": 6, 
+     "name": "Asante Traditional Buildings",
+      "loc": "Kumasi",
+      "active": true
+  }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
